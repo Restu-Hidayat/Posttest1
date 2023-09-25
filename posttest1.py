@@ -1,3 +1,7 @@
+#Muhammad Restu Al-Hidayat
+#2309116067
+
+
 print("SELAMAT DATANG DI KONVERSI MATA UANG")
 print("=" *40)
 
@@ -21,4 +25,8 @@ elif mata_uang_tujuan == 2:
 elif mata_uang_tujuan == 3:
     ringgit = Masukan_Nominal * 0.00030
     print("hasil Konversi : ", "RM", ringgit )
+
+
+
+
 
